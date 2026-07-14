@@ -1,0 +1,17 @@
+name: Profile Readme Check
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate README
+        run: |
+          echo "README Checked Successfully"

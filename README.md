@@ -98,3 +98,78 @@ Goal:
 </div>
 
 ---
+<!-- ===================================================== -->
+<!--                   GITHUB TROPHIES                     -->
+<!-- ===================================================== -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dushh7&theme=algolia&no-frame=true&no-bg=true&row=2&column=4"/>
+</p>
+
+---
+<!-- ===================================================== -->
+<!--                 CONTRIBUTION GRAPH                    -->
+<!-- ===================================================== -->
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dushh7&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+<!-- ===================================================== -->
+<!--               PROFILE SUMMARY CARDS                   -->
+<!-- ===================================================== -->
+
+<h2 align="center">📊 Profile Summary</h2>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dushh7&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dushh7&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dushh7&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dushh7&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dushh7&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+<h2 align="center">📅 Contribution Calendar</h2>
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/00E5FF/dushh7" />
+
+</p>
+
+---
+<!-- ===================================================== -->
+<!--                    DEV QUOTE                          -->
+<!-- ===================================================== -->
+
+<h2 align="center">💭 Daily Inspiration</h2>
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---

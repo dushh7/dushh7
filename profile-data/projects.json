@@ -1,0 +1,94 @@
+[
+  {
+    "name": "AI Desktop Agent",
+    "category": "Agentic AI",
+    "description": "AI-powered desktop automation assistant using local LLMs.",
+    "technologies": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "Ollama",
+      "Llama 3",
+      "Streamlit"
+    ],
+    "repository": "https://github.com/dushh7/AI_DESKTOP_AGENT",
+    "demo": "",
+    "status": "Completed",
+    "year": 2026
+  },
+  {
+    "name": "AI Travel Planner",
+    "category": "Generative AI",
+    "description": "AI-powered travel itinerary planner.",
+    "technologies": [
+      "Python",
+      "Streamlit",
+      "SQLite",
+      "Google Maps API"
+    ],
+    "repository": "",
+    "demo": "",
+    "status": "Completed",
+    "year": 2026
+  },
+  {
+    "name": "SecureMind AI",
+    "category": "Cybersecurity",
+    "description": "AI-powered secure messaging platform.",
+    "technologies": [
+      "Python",
+      "Scikit-learn",
+      "SQLite",
+      "Cryptography",
+      "Streamlit"
+    ],
+    "repository": "https://github.com/dushh7/SecureMind",
+    "demo": "",
+    "status": "Completed",
+    "year": 2026
+  },
+  {
+    "name": "Expense Tracker",
+    "category": "Finance",
+    "description": "Expense management and analytics application.",
+    "technologies": [
+      "Python",
+      "Streamlit",
+      "Pandas",
+      "SQLite"
+    ],
+    "repository": "",
+    "demo": "",
+    "status": "Completed",
+    "year": 2026
+  },
+  {
+    "name": "Wind Turbine Prediction",
+    "category": "Machine Learning",
+    "description": "Wind power prediction using machine learning.",
+    "technologies": [
+      "Python",
+      "Scikit-learn",
+      "Pandas"
+    ],
+    "repository": "",
+    "demo": "",
+    "status": "Completed",
+    "year": 2026
+  },
+  {
+    "name": "Smart Email Intelligence",
+    "category": "Generative AI",
+    "description": "AI-powered email classification and summarization.",
+    "technologies": [
+      "Python",
+      "LangChain",
+      "Streamlit",
+      "SQLite"
+    ],
+    "repository": "",
+    "demo": "",
+    "status": "Completed",
+    "year": 2026
+  }
+]

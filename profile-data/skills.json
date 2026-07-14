@@ -1,0 +1,39 @@
+{
+  "programming": [
+    "Python",
+    "Java",
+    "C",
+    "C++",
+    "SQL"
+  ],
+  "ai": [
+    "Machine Learning",
+    "Generative AI",
+    "LangChain",
+    "LangGraph",
+    "LLMs",
+    "Prompt Engineering"
+  ],
+  "backend": [
+    "FastAPI",
+    "REST API",
+    "Streamlit"
+  ],
+  "database": [
+    "SQLite",
+    "MySQL",
+    "MongoDB"
+  ],
+  "cloud": [
+    "Google Colab",
+    "GitHub",
+    "AWS (Learning)"
+  ],
+  "tools": [
+    "VS Code",
+    "Git",
+    "Postman",
+    "Power BI",
+    "Arduino IDE"
+  ]
+}

@@ -1,13 +1,15 @@
-# OS
+# macOS
 .DS_Store
+
+# Windows
 Thumbs.db
+
+# VS Code
+.vscode/
 
 # Python
 __pycache__/
 *.pyc
-
-# VS Code
-.vscode/
 
 # Environment
 .env

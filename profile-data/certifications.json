@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Introduction to Internet of Things",
+    "provider": "NPTEL",
+    "year": 2026
+  },
+  {
+    "title": "Java Programming",
+    "provider": "NPTEL",
+    "year": 2026
+  },
+  {
+    "title": "Java Programming",
+    "provider": "Infosys Springboard"
+  },
+  {
+    "title": "Data Structures",
+    "provider": "Infosys Springboard"
+  },
+  {
+    "title": "SQL (Advanced)",
+    "provider": "HackerRank"
+  },
+  {
+    "title": "MongoDB Basics",
+    "provider": "MongoDB"
+  }
+]
