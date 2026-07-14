@@ -1,81 +1,100 @@
-<!-- ========================================================= -->
-<!--                    DUSHYAN S GITHUB PROFILE               -->
-<!-- ========================================================= -->
+<div align="center">
 
-<p align="center">
+# 🚀 DUSHYAN S
 
-<img src="assets/banners/banner.png" width="100%">
+### AI Engineer • Machine Learning Engineer • Python Developer
 
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;FastAPI+Developer;LangChain+%7C+LangGraph;Generative+AI;Building+Real+World+AI+Applications;Always+Learning+New+Technologies" />
 
-<h1 align="center">
-Hi 👋 I'm <span style="color:#00E5FF;">Dushyan S</span>
-</h1>
-
-<h3 align="center">
-
-AI Engineer • Machine Learning Enthusiast • Python Developer
-
-</h3>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&center=true&vCenter=true&width=900&color=00E5FF&lines=Artificial+Intelligence;Machine+Learning;FastAPI+Developer;LangChain+%7C+LangGraph;Python+Developer;Building+Real+World+AI+Projects;Always+Learning+New+Things"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=dushh7&label=PROFILE+VIEWS&style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/followers/dushh7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/dushh7?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+<div align="center">
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDV5eDh4OW9mNGR4OWd3eTV3bnd3M2t6cDQ4YjJha2EwMTRrY2d0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+### 🌐 Connect With Me
 
-🎓 Computer Science Engineering Student
+<a href="https://www.linkedin.com/in/dushyan-s-743a44339">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🤖 Passionate about Artificial Intelligence
+<a href="mailto:sdushyan7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🧠 Machine Learning Enthusiast
+<a href="https://github.com/dushh7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🚀 Building Production Ready AI Applications
+<a href="https://www.instagram.com/dushh._/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-🌱 Currently Learning
+</div>
 
-- Agentic AI
-- LangGraph
-- Multi-Agent Systems
-- RAG
-- FastAPI
+---
 
-💬 Ask me about
+## 👨‍💻 About Me
 
-- Python
-- Machine Learning
-- Deep Learning
-- FastAPI
-- LangChain
-- LangGraph
-- Streamlit
+```yaml
+Name: Dushyan S
 
-📫 Email
+Location: Tamil Nadu, India
 
-```text
-sdushyan7@gmail.com
+Education:
+  Degree: B.E Computer Science and Engineering
+  College: Hindusthan Institute of Technology
+
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Generative AI
+  - FastAPI
+  - LangChain
+  - LangGraph
+  - Agentic AI
+
+Currently Learning:
+  - Multi-Agent Systems
+  - Advanced RAG
+  - Docker
+  - AWS
+  - Kubernetes
+
+Goal:
+  Build Production-Ready AI Applications
 ```
 
-📍 Tamil Nadu, India
+---
 
-⚡ Fun Fact
+## 🎯 Current Focus
 
-> "I enjoy turning AI ideas into real-world applications."
+- 🤖 Building AI Agents
+- 🧠 Exploring Agentic AI Systems
+- 🔗 Developing LangGraph Workflows
+- 🚀 Creating FastAPI Applications
+- 📚 Learning Cloud Technologies
+- 🌍 Contributing to Open Source
+
+---
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dushh7&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushh7&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dushh7&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
