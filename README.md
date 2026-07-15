@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 DUSHYAN S
+#  DUSHYAN S
 
 ### AI Engineer • Machine Learning Engineer • Python Developer
 
@@ -54,12 +54,6 @@ Interests:
   - LangGraph
   - Agentic AI
 
-Currently Learning:
-  - Multi-Agent Systems
-  - Advanced RAG
-  - Docker
-  - AWS
-  - Kubernetes
 
 Goal:
   Build Production-Ready AI Applications
